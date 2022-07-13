@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tmavroidis
+- 👋 Hello, I’m Tom Mavroidis
 - 👀 I’m interested in all things System i
 - 🌱 I’m currently learning GIThub integration on the System i
 - 💞️ I’m looking to collaborate on opensource on the System i
