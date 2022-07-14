@@ -3,7 +3,7 @@ Hello, I'm Tom Mavroidis 👋
 This repository is for my team to get up to speed on using the IBM i.
 All software is licenced under the GNU General Public License, version 3  https://www.gnu.org/licenses/gpl-3.0.html .
 
-On the software front, I develop business software for the IBM i primarily in RPG (all versions) but also in COBOL, C and Assembly if necessary, and maintain solutions NTM Consulting https://ntm.net/ have developed over the past 37 years. I also help Companies (SMB's) navigate the sometimes confusing world of IT.  
+On the software front, I develop business software for the IBM i primarily in RPG (all versions) but also in COBOL, C and Assembly, and maintain solutions NTM Consulting https://ntm.net/ have developed over the past 37 years. I also help Companies (SMB's) navigate the sometimes confusing world of IT.  
 
 - 📫 You can reach me at tmavroidis@ntm.net
 
