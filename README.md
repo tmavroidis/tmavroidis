@@ -5,10 +5,9 @@ All software is licenced under the GNU General Public License, version 3  https:
 
 On the software front, I primarily develop business software for the IBM i primarily in RPG (all versions) but also in COBOL, C and Assembly if necessary, and maintain solutions NTM Consulting https://ntm.net/ have developed over the past 37 years. I also help Companies (SMB's) navigate the sometimes confusing world of IT.  
 
-- 
 - 📫 You can reach me at tmavroidis@ntm.net
 
-I am not affiliated with any of the companies below but are valuable if you are just getting started and are completely free to use.
+I am not affiliated with any of the companies listed below which are valuable if you are just getting started and are completely free to use.
 Interested in programming on the IBM i?  Jump over to https://pub400.com/ and set yourself up with a free account so you can try out this great platform.
 - Download VS code to use as your IDE https://code.visualstudio.com/ 
 - Download the IBM i extensions as described https://www.seidengroup.com/2021/06/21/visual-studio-code-rpg-and-ibm-i/ 
