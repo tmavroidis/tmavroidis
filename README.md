@@ -9,10 +9,15 @@ RPG is a high level language for business with a long legacy that I was first in
 
 - 📫 You can reach me at tmavroidis@ntm.net
 
-I am not affiliated with any of the companies listed below but you may find the information they contain valuable if you are just getting started on the IBM i and are totally free of charge to use.
+I am not affiliated with any of the people or companies listed below but you may find the information they contain valuable if you are just getting started on the IBM i and are totally free of charge to use.
 Interested in programming on the IBM i?  Jump over to https://pub400.com/ and set yourself up with a free account so you can try out this great platform.
 - Download VS code to use as your IDE https://code.visualstudio.com/ 
 - Download the IBM i extensions as described https://www.seidengroup.com/2021/06/21/visual-studio-code-rpg-and-ibm-i/ 
+
+If you are looking for strctured education I highly recommend Partner400  http://www.partner400.com/ and Impower Technologies https://impowertechnologies.com/  who have been a source of inspiration throughout my career.
+
+One relative newcomer, advocate and major contributor to our platform is Liam Allan who maintains his site at https://worksofbarry.com/ . I highly recomment you take a look.
+
 
 And lets get started programming.
 
