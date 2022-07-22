@@ -22,6 +22,8 @@ Scott Klement maintains a page at https://www.scottklement.com/ that has tons of
 
 If you are looking for instructor led education I recommend Partner400  http://www.partner400.com/ and Impower Technologies https://impowertechnologies.com/  who have been a source of inspiration throughout my career.
 
+Want to be on the cutting edge of developemtn on the IBM i, check out IBM's Better Object Builder BOB https://github.com/IBM/ibmi-bob
+
 One relative newcomer, advocate and major contributor to our platform is Liam Allan who maintains his site at https://worksofbarry.com/ . I highly recomment you take a look.
 
 
