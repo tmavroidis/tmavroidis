@@ -14,7 +14,13 @@ Interested in programming on the IBM i?  Jump over to https://pub400.com/ and se
 - Download VS code to use as your IDE https://code.visualstudio.com/ 
 - Download the IBM i extensions as described https://www.seidengroup.com/2021/06/21/visual-studio-code-rpg-and-ibm-i/ 
 
-If you are looking for strctured education I highly recommend Partner400  http://www.partner400.com/ and Impower Technologies https://impowertechnologies.com/  who have been a source of inspiration throughout my career.
+Interested in tools to design a project from the ground up?
+- Download Visual Paradigm https://www.visual-paradigm.com/ .They offer video training on using their product and a community edition for training. 
+- There is a book on using Visual Paradigm on the IBM i by Rafael Victória-Pereira - https://www.amazon.ca/SQL-IBM-Database-Modernization-Guide/dp/1583474498 
+
+If you are looking for some ready made tools Giovanni B. Perotti maintains a site at https://www.easy400.net/
+
+If you are looking for instructor led education I recommend Partner400  http://www.partner400.com/ and Impower Technologies https://impowertechnologies.com/  who have been a source of inspiration throughout my career.
 
 One relative newcomer, advocate and major contributor to our platform is Liam Allan who maintains his site at https://worksofbarry.com/ . I highly recomment you take a look.
 
