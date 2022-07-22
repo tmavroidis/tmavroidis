@@ -20,6 +20,8 @@ Interested in tools to design a project from the ground up?
 
 If you are looking for some ready made tools Giovanni B. Perotti maintains a site at https://www.easy400.net/
 
+Scott Klement maintains a page at https://www.scottklement.com/ that has tons of examples of ready made utilities both open sourced and IBM i specific.
+
 If you are looking for instructor led education I recommend Partner400  http://www.partner400.com/ and Impower Technologies https://impowertechnologies.com/  who have been a source of inspiration throughout my career.
 
 One relative newcomer, advocate and major contributor to our platform is Liam Allan who maintains his site at https://worksofbarry.com/ . I highly recomment you take a look.
