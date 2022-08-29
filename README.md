@@ -12,6 +12,8 @@ Interested in programming on the IBM i?  Jump over to https://pub400.com/ and se
 - Download VS code to use as your IDE https://code.visualstudio.com/ 
 - Download the IBM i extensions as described https://www.seidengroup.com/2021/06/21/visual-studio-code-rpg-and-ibm-i/ 
 
+If you are an RDI affectionado check out the How to Learn RDi page at IBM https://www.ibm.com/support/pages/node/6120837#labs
+
 Interested in tools to design a project from the ground up?
 - Download Visual Paradigm https://www.visual-paradigm.com/ .They offer video training on using their product and a community edition for training. 
 - There is a book on using Visual Paradigm on the IBM i by Rafael Victória-Pereira - https://www.amazon.ca/SQL-IBM-Database-Modernization-Guide/dp/1583474498 
