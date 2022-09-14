@@ -28,6 +28,7 @@ Want to be on the cutting edge of developemtn on the IBM i, check out IBM's Bett
 
 One relative newcomer, advocate and major contributor to our platform is Liam Allan who maintains his site at https://worksofbarry.com/ . I highly recomment you take a look.
 
+Alan Campin maintains https://think400.dk/ that contains a bunch of free code that may be of interest.
 
 And lets get started programming.
 
