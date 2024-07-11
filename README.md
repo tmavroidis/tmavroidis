@@ -3,6 +3,22 @@ Hello, I'm Tom Mavroidis 👋   - 📫 You can reach me at tmavroidis@ntm.net
 This repository is for my team to get up to speed on using the IBM i.
 All software is licenced under the GNU General Public License, version 3  https://www.gnu.org/licenses/gpl-3.0.html .
 
+IMPORTANT NOTE:
+  ALL SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND      
+  ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE       
+  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE  
+  ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE     
+  FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL  
+  DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS     
+  OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)       
+  HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT  
+  LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY   
+  OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF      
+  SUCH DAMAGE. CONTINUING TO USE THIS REPOSITORY CONSTITUTES YOUR ACCEPANCE
+  OF THESE TERMS.
+  SOFTWARE HAS BEEN PROVIDED UNDER THE TERMS OF THE GNU GENERAL PUBLIC LICENSE V3
+  https://www.gnu.org/licenses/gpl-3.0.en.html
+
 On the software front, I develop business software for the IBM i primarily in RPG (all versions) but also in COBOL, C and Assembly, and maintain solutions for NTM Consulting https://ntm.net/ developed over the past 40 years. I also help Companies navigate the sometimes confusing world of IT. 
 
 Originally developed in 1959, RPG is a high level language for business with a long legacy that I was introduced to on the System/360. After many iterations of the language and with IBM's commitment to insure backward compatibility many customers have software that spans versions. The latest implementation of the language, while powerful,  adds a new challange in depth of knowledge required to keep it opertaional. RPG has been enhanced to take advantage of everything available to a developer by todays standards and allows you to mix with programs written over 40 years ago. Although preferable it is financially difficult to justify rewriting complete working systems just to make the language current unless you can include tangable improvements. I am including some of my favourite tools to aid in converting older code to a more current model in the hope it will be of help to you. 
