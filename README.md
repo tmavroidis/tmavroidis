@@ -1,4 +1,4 @@
-Hello, I'm Tom Mavroidis 👋   - 📫 You can reach me at tmavroidis@ntm.net
+Tom Mavroidis 👋   - 📫 You can reach me at tmavroidis@ntm.net
 
 This repository is for my team to get up to speed on using the IBM i.
 
@@ -8,11 +8,15 @@ IMPORTANT NOTE:
   ALL SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. CONTINUING TO USE THIS REPOSITORY CONSTITUTES YOUR ACCEPANCE OF THESE TERMS.
   SOFTWARE HAS BEEN PROVIDED UNDER THE TERMS OF THE GNU GENERAL PUBLIC LICENSE V3  https://www.gnu.org/licenses/gpl-3.0.en.html
 
-On the software front, I develop business software for the IBM i primarily in RPG (all versions) but also in COBOL, C and Assembly, and maintain solutions for NTM Consulting https://ntm.net/ developed over the past 40 years. I also help Companies navigate the sometimes confusing world of IT. 
+I have been developing business software for the over 40 years, for the IBM midrange machines (System34, System36, System38, As400, iSeries and now the IBM i), primarily in RPG (all versions) as well as in COBOL, C and Assembly, and continue to maintain the code my teams have built. 
 
-Originally developed in 1959, RPG is a high level language for business with a long legacy that I was introduced to on the System/360. After many iterations of the language and with IBM's commitment to insure backward compatibility many customers have software that spans versions. The latest implementation of the language, while powerful,  adds a new challange in depth of knowledge required to keep it opertaional. RPG has been enhanced to take advantage of everything available to a developer by todays standards and allows you to mix with programs written over 40 years ago. Although preferable it is financially difficult to justify rewriting complete working systems just to make the language current unless you can include tangable improvements. I am including some of my favourite tools to aid in converting older code to a more current model in the hope it will be of help to you. 
+I also help Companies navigate the sometimes confusing world of IT and connect them with the correct people or organizations required to run their business. 
 
-I am not affiliated with any of the people or companies listed below but you may find the information they contain valuable if you are just getting started on the IBM i and are totally free of charge to use.
+Originally developed in 1959, (https://en.wikipedia.org/wiki/IBM_RPG) RPG is a high level language for business with a long legacy that was introduced by IBM. After many iterations of the language and with IBM's commitment to insure backward compatibility many customers have ended up with software that spans many generations of updates and imporvements. The latest implementation of the language, while powerful,  adds a new challange in maintaining code bases that although simillar in nature require a depth of knowledge that needs grey haired programmers to maintain. RPG has been enhanced to take advantage of everything available to a developer by todays standards but also allows you to mix it with the programs written over the span of 40 years. Although preferable rewriting code is financially difficult to justify unless you can include tangable improvements so many companies choose to maintain their older code and write improvements in a newer version of the language. 
+
+Over the next little while I will be including some of my favourite tools I have created to aid in converting older code to a more current version in the hope it will be of help to you. 
+
+Here are some links that may be of interest: I am not affiliated with any of the people or companies listed below but you may find the information they contain valuable if you are just getting started on the IBM i and are totally free of charge to use.
 Interested in programming on the IBM i?  Jump over to https://pub400.com/ and set yourself up with a free account so you can try out this great platform.
 - Download VS code to use as your IDE https://code.visualstudio.com/ 
 - Download the IBM i extensions as described https://www.seidengroup.com/2021/06/21/visual-studio-code-rpg-and-ibm-i/ 
