@@ -1,12 +1,16 @@
-Tom Mavroidis 👋   - 📫 You can reach me at tmavroidis@ntm.net
+<h3>Hello 👋 </h3> 
 
-This repository is for my team to get up to speed on using the IBM i.
+<h2>This Github is for my team to be able to reference my utility programs written for IBM i.</h2>
+
+📫 You can reach me at tmavroidis@ntm.net
+
+💬 Currently working on code modernizations - RPGII to ILErpg and all the things that have to be changed to do it.
+
+<h3>Important Note</h3>
 
 All the software included in this site is licenced under the GNU General Public License, version 3  https://www.gnu.org/licenses/gpl-3.0.html .
 
-IMPORTANT NOTE:
-  ALL SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. CONTINUING TO USE THIS REPOSITORY CONSTITUTES YOUR ACCEPANCE OF THESE TERMS.
-  SOFTWARE HAS BEEN PROVIDED UNDER THE TERMS OF THE GNU GENERAL PUBLIC LICENSE V3  https://www.gnu.org/licenses/gpl-3.0.en.html
+<h3>Background</h3>
 
 I have been developing business software for the over 40 years, for the IBM midrange machines (System34, System36, System38, As400, iSeries and now the IBM i), primarily in RPG (all versions) as well as in COBOL, C and Assembly, and continue to maintain the code my teams have built. 
 
