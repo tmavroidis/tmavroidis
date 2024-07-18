@@ -4,7 +4,7 @@
 
 📫 You can reach me at tmavroidis@ntm.net
 
-💬 Currently working on code modernizations - RPGII to ILErpg and all the things that have to be changed to do it.
+💬 Currently working on code/database modernizations and all the things that have to change to make it work.
 
 <h3>Important Note</h3>
 
