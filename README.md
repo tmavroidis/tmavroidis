@@ -1,6 +1,6 @@
 <h3>Hello 👋 </h3> 
 
-<h2>This Github is for my team to be able to reference my utility programs written for IBM i.</h2>
+<h2>This is for my team (and others) to be able to reference the utility programs I have written for the IBM i.</h2>
 
 📫 You can reach me at tmavroidis@ntm.net
 
