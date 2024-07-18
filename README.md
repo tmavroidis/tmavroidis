@@ -6,7 +6,7 @@
 
 💬 Currently working on code/database modernizations and all the things that have to change to make it work.
 
-📔 Currently trying to figure if it is possible to use AI to look at flat files and associated program described descriptions to build the corresponding SQL statements  
+📔 Currently trying to figure if it is possible to use AI to look at flat files and associated program described descriptions to build the corresponding SQL statements. This may be part of IBM AI initiative already, have to wait and see. https://ibm.github.io/rpg-genai-data/#/pages/task/modernize  
 
 <h3>Important Note</h3>
 
