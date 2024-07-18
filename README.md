@@ -6,6 +6,8 @@
 
 💬 Currently working on code/database modernizations and all the things that have to change to make it work.
 
+📔 Currently trying to figure if it is possible to use AI to look at flat files and associated program described descriptions to build the corresponding SQL statements  
+
 <h3>Important Note</h3>
 
 All the software included in this site is licenced under the GNU General Public License, version 3  https://www.gnu.org/licenses/gpl-3.0.html .
