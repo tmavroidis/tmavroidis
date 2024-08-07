@@ -8,6 +8,8 @@
 
 📔 Currently trying to figure if it is possible to use AI to look at flat files and associated program described descriptions to build the corresponding SQL statements. This may be part of IBM AI initiative already, have to wait and see. https://ibm.github.io/rpg-genai-data/#/pages/task/modernize  
 
+📔 IBM writeup on Modernizing your physical files -> https://www.ibm.com/support/pages/system/files/inline-files/$FILE/app%20modernization%20Db2%20for%20i%20style.pdf
+
 <h3>Important Note</h3>
 
 All the software included in this site is licenced under the GNU General Public License, version 3  https://www.gnu.org/licenses/gpl-3.0.html .
