@@ -12,7 +12,7 @@
 
 📔 IBM writeup on Modernizing your physical files -> https://www.ibm.com/support/pages/system/files/inline-files/$FILE/app%20modernization%20Db2%20for%20i%20style.pdf
 
-🌈 Using Linux Mint as a desktop O/S with Android Studio, Vs Code and RDI as development platforms. RDI is the only product that is not free.
+🌈 Using Linux Mint as a desktop O/S with Android Studio, Vs Code and RDI as development platforms. RDI is the only product that is not free. A few issues getting Android stucio running in mint, download the .deb zip, extract to the /opt directory off the root, cd to the /opt/android-studio/bin directory and run the ./studio.sh script. Don't install from the software manager, it messes up because of permissions. 
 
 <h3>Important Note</h3>
 
