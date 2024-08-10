@@ -16,7 +16,7 @@
 
 <h3>Important Note</h3>
 
-All the software included in this site is licenced under the GNU General Public License, version 3  https://www.gnu.org/licenses/gpl-3.0.html .
+All the software in this repository is licenced under the GNU General Public License, version 3  https://www.gnu.org/licenses/gpl-3.0.html .
 
 <h3>Background</h3>
 
