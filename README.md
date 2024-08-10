@@ -12,6 +12,8 @@
 
 📔 IBM writeup on Modernizing your physical files -> https://www.ibm.com/support/pages/system/files/inline-files/$FILE/app%20modernization%20Db2%20for%20i%20style.pdf
 
+🌈 Using Linux Mint as a desktop O/S with Android Studio, Vs Code and RDI as development platforms. 
+
 <h3>Important Note</h3>
 
 All the software included in this site is licenced under the GNU General Public License, version 3  https://www.gnu.org/licenses/gpl-3.0.html .
