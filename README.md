@@ -4,9 +4,11 @@
 
 📫 You can reach me at tmavroidis@ntm.net
 
-💬 Currently working on code/database modernizations and all the things that have to change to make it work.
+💬 Working on code/database modernizations and all the things that have to change to make it work.
 
-📔 Currently trying to figure if it is possible to use AI to look at flat files and associated program described descriptions to build the corresponding SQL statements. This may be part of IBM AI initiative already, have to wait and see. https://ibm.github.io/rpg-genai-data/#/pages/task/modernize  
+📔 Using AI to look at flat files and associated program described descriptions to build the corresponding SQL statements. This may be part of IBM AI initiative already, have to wait and see. https://ibm.github.io/rpg-genai-data/#/pages/task/modernize  
+
+📔 Working with Android Studio/Flutter/Dart to design maintenance screens using ODBC for the IBM i
 
 📔 IBM writeup on Modernizing your physical files -> https://www.ibm.com/support/pages/system/files/inline-files/$FILE/app%20modernization%20Db2%20for%20i%20style.pdf
 
