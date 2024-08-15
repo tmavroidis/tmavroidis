@@ -8,7 +8,7 @@
 
 📔 Using AI to look at flat files and associated program described descriptions to build the corresponding SQL statements. This may be part of IBM AI initiative already, have to wait and see. https://ibm.github.io/rpg-genai-data/#/pages/task/modernize  
 
-🌈 Working with Android Studio/Flutter/Dart to design maintenance screens using ODBC for the IBM i
+🌈 Working with Android Studio/Flutter/Dart https://flutter.dev/ to design maintenance screens using ODBC for the IBM i
 
 📔 IBM writeup on Modernizing your physical files -> https://www.ibm.com/support/pages/system/files/inline-files/$FILE/app%20modernization%20Db2%20for%20i%20style.pdf
 
