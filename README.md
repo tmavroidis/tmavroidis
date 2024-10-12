@@ -14,6 +14,8 @@
 
 🌈 Using Linux Mint as a desktop O/S https://linuxmint.com/ with Android Studio https://developer.android.com/studio , Vs Code https://code.visualstudio.com/ and RDI https://www.ibm.com/products/rational-developer-for-i as development platforms. RDI is the only product that is not free. A few issues getting Android studio running in mint, download the .deb zip, extract to the /opt directory off the root, cd to the /opt/android-studio/bin directory and run the ./studio.sh script. Don't install from the software manager, it messes up because of permissions. 
 
+📔 Did you know that IBM offers free learning resources for the Z line of processors. https://www.ibm.com/z/resources/zxplore . It covers a wide range of topics where you can upskill, reskill and learn new skills. Available at no charge, learners can gain hands-on experiences through coding challenges and working with various technologies to develop valuable skills and earn industry recognized digital badges.
+
 <h3>Important Note</h3>
 
 All the software in this repository is licenced under the GNU General Public License, version 3  https://www.gnu.org/licenses/gpl-3.0.html .
