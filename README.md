@@ -4,7 +4,7 @@
 
 📫 You can reach me at tmavroidis@ntm.net
 
-💬 I have started coding my user facing programs in Android Studio using Flutter the cross platform framework and Googles Gemini as the coder. Results are amazing and any non-mobil specific apps are generated cross platform. Gemini is fantastic at sourcing dependencies that would take hours if not days to fix. The programming ecosystem has become too complex for any one person to keep straight in their head. 
+💬 I have begn coding all user facing programs in Android Studio with Flutter as the the cross platform framework and Google Gemini as the coding agent. Results are amazing and any non-mobil specific apps are generated cross platform. Gemini is fantastic at sourcing dependencies that would take hours if not days to fix. The programming ecosystem has become too complex for any one person to keep straight in their head. 
 
 📔 Using AI to look at flat files and associated program described descriptions to build the corresponding SQL statements. This may be part of IBM AI initiative already, have to wait and see. https://ibm.github.io/rpg-genai-data/#/pages/task/modernize  
 
