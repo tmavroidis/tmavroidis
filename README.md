@@ -1,6 +1,6 @@
 <h3>Bonjour,Hi 👋 </h3> 
 
-<h2>Welcome, 2026 is emerging as a pivotal year for artificial intelligence, marked by the transition from AI hype to tangible implementation, the rise of agentic AI systems, and the establishment of critical standards and policies. The year is characterized by a shift toward practical, human-centered AI applications, increased regulatory oversight, and a growing focus on transparency and accountability in AI deployment across industries. </h2>
+<h2>Welcome to my Github page, 2026 is emerging as a pivotal year for artificial intelligence, marked by the transition from AI hype to tangible implementation, the rise of agentic AI systems, and the establishment of critical standards and policies. The year is characterized by a shift toward practical, human-centered AI applications, increased regulatory oversight, and a growing focus on transparency and accountability in AI deployment across industries. </h2>
 
 📫 You can reach me at tmavroidis@ntm.net
 
